@@ -1,2 +1,5 @@
 # Linux
-All about Linux
+
+*** All about Linux
+
+*** PLEASE DO NOT EDIT OR COMMIT THIS REPOSITORY. THANKS IN ADAVANCE.
